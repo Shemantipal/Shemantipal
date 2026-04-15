@@ -1,30 +1,19 @@
-<h1 align="center">Hi 👋, I'm SHEMANTI PAL</h1>
-<h3 align="center">🚀 Full Stack Developer | Building, Learning & Growing Every Day</h3>
+<h1 align="center">Hey, Shemanti this side</h1>
+<h3 align="center">Full Stack Developer | Building, Learning & Growing Every Day</h3>
 
 <div align="center">
   <img alt="Coding" width="500" src="https://private-user-images.githubusercontent.com/187638139/541219729-22e0e397-35db-43d3-b61e-54da46ef8ad4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzYyNTEzMTAsIm5iZiI6MTc3NjI1MTAxMCwicGF0aCI6Ii8xODc2MzgxMzkvNTQxMjE5NzI5LTIyZTBlMzk3LTM1ZGItNDNkMy1iNjFlLTU0ZGE0NmVmOGFkNC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNDE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDQxNVQxMTAzMzBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zNTYzZjIxOWYyMzE2NGNjMTE0ZTA3ZmFkMGFhNzFhMDUyMWIxZTkzYjFhNzgxMTkyYmJlZmQ4NWJjMGU5NDg1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZnaWYifQ.jKw65WYOGox3p8oBrbfoRdM8R-Ep0DC3ky_C1mBRyLA" />
 </div>
 
----
 
-<h3 align="center">🎥 Featured Project Demo</h3>
-
-<p align="center">
-  <a href="YOUR_VIDEO_LINK_HERE" target="_blank">
-    <img src="https://private-user-images.githubusercontent.com/187638139/541219729-22e0e397-35db-43d3-b61e-54da46ef8ad4.gif" width="500" alt="Watch Demo"/>
-  </a>
-</p>
-
----
 
 <h3 align="center">🌟 About Me</h3>
 
 <p align="center">
-💡 Passionate about building impactful tech products <br/>
-🌱 Currently mastering <strong>Next.js, TypeScript & Full Stack Development</strong> <br/>
-🤝 Open to collaborations on <strong>innovative projects & startups</strong> <br/>
-📫 Reach me at <strong>shemantipal.sun@gmail.com</strong> <br/>
-⚡ Fun fact: I love photography 📸, storytelling ✍️ & nature 🌿
+Full Stack Developer with 1.5+ years of experience building scalable web applications and user-focused products. <br/>
+Strong foundation in modern JavaScript frameworks and backend systems with a focus on performance and clean architecture. <br/>
+Currently working with Next.js, TypeScript, and cloud-based solutions while continuously exploring advanced system design and DevOps practices. <br/>
+Open to collaborations on impactful products and innovative ideas.
 </p>
 
 ---
@@ -43,23 +32,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=shemantipal&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shemantipal&show_icons=true&theme=radical" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shemantipal&layout=compact&theme=radical" />
-</p>
 
----
-
-<h3 align="center">🏆 Achievements</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shemantipal&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 <h3 align="center">🌐 Connect with Me</h3>
 
