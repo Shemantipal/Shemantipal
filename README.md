@@ -10,7 +10,7 @@
 <h3 align="center">🌟 About Me</h3>
 
 <p align="center">
-Full Stack Developer with 1.5+ years of experience building scalable web applications and user-focused products. <br/>
+Full Stack Developer with 2+ years of experience building scalable web applications and user-focused products. <br/>
 Strong foundation in modern JavaScript frameworks and backend systems with a focus on performance and clean architecture. <br/>
 Currently working with Next.js, TypeScript, and cloud-based solutions while continuously exploring advanced system design and DevOps practices. <br/>
 Open to collaborations on impactful products and innovative ideas.
